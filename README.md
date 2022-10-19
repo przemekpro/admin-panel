@@ -10,5 +10,5 @@ Admin panel for user managment.
 * Axios 1.1.3
 * React Hook Form 7.37
 
-Demo: przemekpro-admin-panel.netlify.app
+Demo: https://przemekpro-admin-panel.netlify.app
 
