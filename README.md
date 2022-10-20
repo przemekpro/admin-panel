@@ -1,4 +1,4 @@
-# NFTKING APP
+# ADMIN PANEL
 
 Admin panel for user managment. 
 
